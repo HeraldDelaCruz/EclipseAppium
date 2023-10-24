@@ -60,6 +60,11 @@
 
 
 
+  	<dependency>
+  		<groupId>Htest1maven1</groupId>
+  		<artifactId>Hmaven1</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   
   <profiles>
